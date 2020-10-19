@@ -1,2 +1,3 @@
 # Git-studying
 приветули
+git pull --rebase...
